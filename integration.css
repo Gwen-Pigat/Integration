@@ -1,0 +1,50 @@
+body{
+	background: url('images/Fond_page_connexion.png') fixed no-repeat;
+	background-size: 100% 100%;
+	overflow: hidden;
+}
+
+.logo{
+	margin-top: 48.5%;
+}
+
+div{
+	margin-top: -29%;
+}
+
+input{
+	margin-top: 1%;
+	padding: 1%;
+	border-radius: 5px;
+	border: 1px #67B0B5 solid;
+	color: #67B0B5;
+}
+
+span{
+	color: #347D82;
+}
+
+.second{
+
+	color: #347D82;
+}
+
+button{
+	margin-top: 1%;
+	padding: 1%;
+	border-radius: 5px;
+	border: 1px #264D52	 solid;
+	color: white;
+	background-color: #347D82;
+	font-size: 15px;
+}
+
+button:hover{
+	transition: 0.6s;
+	opacity: 0.4;
+}
+
+button a{
+	text-decoration: none;
+	color: white;
+}
